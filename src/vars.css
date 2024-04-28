@@ -1,0 +1,14 @@
+:root {
+    /* Colors */
+    --color-text: #F3EFFF;
+    --color-primary: #865DFF;
+    --color-secondary: #070080;
+    --color-dark: #00004D;
+    --color-bg: #191825;
+    --gradient-deep: linear-gradient(0deg, #200099 0%,#865DFF 100%);
+    --top-blur: #00004D;
+    --bottom-blur: #00004D;
+    /* Fonts */
+    --font-kanit: "outfit";
+}   
+

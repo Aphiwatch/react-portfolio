@@ -1,0 +1,24 @@
+[
+    {
+        "role": "Intern",
+        "organisation": "Extend IT Resources",
+        "startDate": "Sep, 2023",
+        "endDate": "Mar, 2024",
+        "experiences": [
+            "IOT โปรเจคด้วย ESP32 ร่วมกับ DHT11 นำข้อมูลเฉลี่ยด้วย Go lang และบันทึกลงที่ Postgresql",
+            "ออกแบบ UX/UI แอปพลิเคชันมือถือบน Figma",
+            "พัฒนาแอปพลิเคชันมือถือด้วย Flutter"
+        ],
+        "imageSrc": "history/x10it_logo.png"
+    },
+    {
+        "role": "Student",
+        "organisation": "Kasetsart University",
+        "startDate": "Jun, 2021",
+        "endDate": "Jul, 2024",
+        "experiences": [
+            "ปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์"
+        ],
+        "imageSrc": "history/KU_Logo_PNG.png"
+    }
+]
